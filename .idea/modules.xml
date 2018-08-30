@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayUtil/ArrayUtil.iml" filepath="$PROJECT_DIR$/ArrayUtil/ArrayUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyType/KeyType.iml" filepath="$PROJECT_DIR$/KeyType/KeyType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieDB/MovieDB.iml" filepath="$PROJECT_DIR$/MovieDB/MovieDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Table/Table.iml" filepath="$PROJECT_DIR$/Table/Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Table.java.iml" filepath="$PROJECT_DIR$/.idea/Table.java.iml" />
+    </modules>
+  </component>
+</project>
