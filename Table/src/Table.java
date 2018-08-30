@@ -235,6 +235,7 @@ public class Table
      */
     public Table minus (Table table2)
     {
+
         out.println ("RA> " + name + ".minus (" + table2.name + ")");
         if (! compatible (table2)) return null;
 
