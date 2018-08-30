@@ -7,7 +7,7 @@ import static org.junit.Assert.assertNull;
 
 public class Test {
 
-
+        //this is a test
         //assert not null, that minus does not return null
     @org.junit.Test
     public void testMinus(){
